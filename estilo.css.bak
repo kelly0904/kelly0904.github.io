@@ -1,0 +1,120 @@
+body{
+	background:#FFFFFF;
+}	
+h1{
+	color: #0B610B;
+	font-family: arial;
+	font-size: 50px;
+	text-align: center;
+}
+p{
+	color: #173B0B;
+	font-family: time new roman;
+	font-size: 10px;
+	text-align: center;
+	font-weight: bold;
+	font-style: italic;
+}
+table{
+	color: #173B0B;
+	font-family: time new roman;
+	font-size: 30px;
+	text-align: center;
+	font-weight: bold;
+	border: 2;
+	height: 30%;
+	width: 90%;
+	border-color: #000000;
+}
+.sin{
+	border-style:transparent;
+	border:0;
+	background-color: transparent;
+	height:30%;
+}
+.sin1{
+	color: #3B170B;
+	font-family: time new roman;
+	font-size: 25px;
+	text-align: left;
+	font-weight: bold;
+	height: 30%;
+	width: 100%;
+	border-color: #311601;
+}
+.sin2{
+	color: #173B0B;
+	font-family: time new roman;
+	font-size: 25px;
+	text-align: left;
+	font-weight: bold;
+	border:2;
+	height: 25%;
+	width: 30%;
+	border-color: #000000;
+}
+/* Está clase es para agregar poner, comer un recuadro al encabezado de cada página */
+div{
+}
+.div1{
+      background: #BC3C40;
+	  border: 2;
+	  border-radius: 10px; 
+	  border-style: solid;
+	  border-color: #000000;
+	  margin: 6 auto; 
+	  height: 13%;
+	  width: 60%;
+}
+/*este apartado es para la tabla de productos*/
+.tablrl{
+       margin: 3 auto;
+	   color:#0B610B;
+	   font-family:time new roman;
+	   font-size: 25px;
+	   text-align: center;
+	   font-weight: bold; 
+	   height: 90%;
+	   width: 90%;
+	   border-color:#000000;
+	   border:2; 
+	   border-style: solid; 
+	   border-collapse: collapse; 
+}
+.renglon{
+       margin: 3 auto;
+	   color:;
+	   font-family:time new roman;
+	   font-size: 25px;
+	   text-align: center;
+	   font-weight: bold; 
+	   height: 90%;
+	   width: 90%;
+	   border-color:#000000;
+	   border:2; 
+	   border-style: solid; 
+	   border-collapse: collapse; 
+}
+.columna{
+        border-style: solid;
+        border: 2; 
+        border-color:#000000 ;
+        background-color:#4B8A08;
+}
+.bordes1{
+	border-style: solid;
+	border:2;
+	border-color: #000000;
+	background-color:#B40404;
+}
+.fonybor{
+border-style: solid;
+border: 2; 
+border-color:#000000 ;
+background-color:#FFFFFF;
+}
+.img6{
+     width: 550px; 
+}
+
+	   

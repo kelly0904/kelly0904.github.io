@@ -1,0 +1,67 @@
+<html> 
+<head>
+<title>Soriana</title>
+<link rel="shorcut icon" href="logo2.png">
+<link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+<body bgcolor="#FFFFFF">
+<body>
+<a href="Soriana.html">
+<img src=logo.png width="250" heigth="200"></a>
+</font>
+<center>
+<div class="div1">
+<h1 id="fuente-bubble-sharp">
+Productos
+</h1>
+</div>
+<hr>
+<br>
+<center>
+<div class="div-productos4">
+<table class="tableps">
+	<tr>
+		<td><img class="img10" src=aguacate.png></td>
+
+		<td><img class="img10" src=aguacate1.jpg></td>
+
+		<td><img class="img10" src=aguacate2.jpg></td>
+
+		<td><img class="img10" src=aguacate3.jpg></td>
+	</tr>
+</table>
+</div>
+</center>
+<br>
+<br>
+<br>
+<table class="sin">
+<tr>
+	<th><A href="Historia.html"><img class="caja3" class="img4" src=historia.png></A>
+	<th><A href="Producto.html"><img class="caja3" class="img4" src=productos.png></A>
+	<th><A href="Contacto.html"><img class="caja3" class="img4" src=contacto.png></A>
+	<th><A href="Video.html"><img class="caja3" class="img4" src=video.png></A>
+</tr>
+</table>
+<br>
+<br>
+<center>
+<div class="div2">
+<br>
+<A href="Soriana.html">
+<img src=logo.png width="250" heigth="100">
+</A>
+	<p>
+		&copy:2022. Derechos reservados
+		<br>
+		Desarrollo por:Kelly Veronica Rivas Duran<br>
+		Matricula:01905706<br>
+		Grupo:605 <br>
+		CoBach Plantel Nueva Tijuana 
+	</p>
+</div>
+</center>
+</font>
+	</body>
+</html>
